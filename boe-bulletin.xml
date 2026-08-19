@@ -1,31 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"
-      xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
 
-  <title>BOE Bulletin</title>
-  <subtitle>Upcoming Board of Education Programs</subtitle>
+  <channel>
 
-  <id>https://danieljfarina.github.io/cablecast-boe-rss/boe-bulletin.xml</id>
+    <title>BOE Bulletin</title>
+    <description>Upcoming Board of Education Programs</description>
+    <link>https://danieljfarina.github.io/cablecast-boe-rss/</link>
 
-  <updated>2026-08-19T15:00:00Z</updated>
+    <item>
 
-  <entry>
-    <title>Upcoming Program</title>
+      <title>Upcoming Program</title>
 
-    <id>https://drive.google.com/file/d/1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd/view</id>
+      <description>
+        Board of Education upcoming program
+      </description>
 
-    <updated>2026-08-20T12:00:00Z</updated>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
 
-    <summary>Board of Education upcoming program</summary>
+      <guid isPermaLink="false">
+        1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd
+      </guid>
 
-    <link
-      rel="alternate"
-      href="https://example.com"/>
+      <media:title>Upcoming Program</media:title>
 
-    <media:content
-      url="https://drive.google.com/uc?export=view&amp;id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd"
-      type="image/jpeg"/>
-      
-  </entry>
+      <media:description>
+        Board of Education upcoming program
+      </media:description>
 
-</feed>
+      <media:content
+        url="https://drive.google.com/uc?export=view&amp;id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd"
+        type="image/jpeg"
+        medium="image" />
+
+      <media:thumbnail
+        url="https://drive.google.com/uc?export=view&amp;id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd"
+        width="1920"
+        height="1080" />
+
+    </item>
+
+  </channel>
+
+</rss>
