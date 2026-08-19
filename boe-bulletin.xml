@@ -1,22 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>BOE Bulletin</title>
-    <description>Upcoming Board of Education Programs</description>
-    <link>https://danieljfarina.github.io/cablecast-boe-rss/</link>
-
-    <item>
-      <title>Upcoming Program</title>
-      <description>Board of Education upcoming program</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd</guid>
-
-      <link>https://drive.google.com/file/d/1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd/view</link>
-
-      <enclosure
-        url="https://drive.google.com/uc?export=view&amp;id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd"
-        type="img/jpg" />
-    </item>
-
-  </channel>
-</rss>
+<item>
+  <title>BOE Bulletin</title>
+  <guid isPermaLink="false">2026-08-20-https://drive.google.com/uc?export=view&id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd</guid>
+  <pubDate>2026-08-20</pubDate>
+  <enclosure
+    url="https://drive.google.com/uc?export=view&ampid=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd"
+    type="img/jpg" />
+</item>
+<item>
+  <title>BOE Bulletin</title>
+  <guid isPermaLink="false">2026-08-20-https://drive.google.com/uc?export=view&id=1yMZM0LzgcBVN7uCsZiWd5FQIi8HyNBsU</guid>
+  <pubDate>2026-08-20</pubDate>
+  <enclosure
+    url="https://drive.google.com/uc?export=view&ampid=1yMZM0LzgcBVN7uCsZiWd5FQIi8HyNBsU"
+    type="img/jpg" />
+</item>
+<item>
+  <title>BOE Bulletin</title>
+  <guid isPermaLink="false">2026-08-20-https://drive.google.com/uc?export=view&id=1ZqU1yspyj9q4HZZuUz1cGlb0IYpVexZG</guid>
+  <pubDate>2026-08-20</pubDate>
+  <enclosure
+    url="https://drive.google.com/uc?export=view&ampid=1ZqU1yspyj9q4HZZuUz1cGlb0IYpVexZG"
+    type="img/jpg" />
+</item>
+<item>
+  <title>BOE Bulletin</title>
+  <guid isPermaLink="false">2026-08-24-https://drive.google.com/uc?export=view&id=1IXE-w0vctIn60yCymEILpCrSlA-c0fNF</guid>
+  <pubDate>2026-08-24</pubDate>
+  <enclosure
+    url="https://drive.google.com/uc?export=view&ampid=1IXE-w0vctIn60yCymEILpCrSlA-c0fNF"
+    type="img/jpg" />
+</item>
+<item>
+  <title>BOE Bulletin</title>
+  <guid isPermaLink="false">2026-08-24-https://drive.google.com/uc?export=view&id=1v3WylL7gunH51pt4UWJYZz_40_VpUdEf</guid>
+  <pubDate>2026-08-24</pubDate>
+  <enclosure
+    url="https://drive.google.com/uc?export=view&ampid=1v3WylL7gunH51pt4UWJYZz_40_VpUdEf"
+    type="img/jpg" />
+</item>
+<item>
+  <title>BOE Bulletin</title>
+  <guid isPermaLink="false">2026-08-31-https://drive.google.com/uc?export=view&id=1u5zj7AGhwmNNDFRd7SDD53JPTVWpLfcE</guid>
+  <pubDate>2026-08-31</pubDate>
+  <enclosure
+    url="https://drive.google.com/uc?export=view&ampid=1u5zj7AGhwmNNDFRd7SDD53JPTVWpLfcE"
+    type="img/jpg" />
+</item>
+<item>
+  <title>BOE Bulletin</title>
+  <guid isPermaLink="false">2026-09-01-https://drive.google.com/uc?export=view&id=1PTQn9udPGmsdImYrncJUoFSVk5VEhcmG</guid>
+  <pubDate>2026-09-01</pubDate>
+  <enclosure
+    url="https://drive.google.com/uc?export=view&ampid=1PTQn9udPGmsdImYrncJUoFSVk5VEhcmG"
+    type="img/jpg" />
+</item>
