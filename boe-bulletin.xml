@@ -4,6 +4,13 @@
     <title>Boe Bulletin</title>
     <description>Upcoming Board of Education Programs</description>
     <link>https://example.com</link>
+
+ <enclosure
+    url="https://drive.google.com/uc?export=view&amp;id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd"
+    type="image/jpeg"
+  />
+
+    
     <item>
       <title>Upcoming Program</title>
       <description>Board of Education upcoming program</description>
