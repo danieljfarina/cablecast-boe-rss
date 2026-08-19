@@ -1,45 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:media="http://search.yahoo.com/mrss/">
-
+<rss version="2.0">
   <channel>
-
     <title>BOE Bulletin</title>
     <description>Upcoming Board of Education Programs</description>
     <link>https://danieljfarina.github.io/cablecast-boe-rss/</link>
 
     <item>
-
       <title>Upcoming Program</title>
-
-      <description>
-        Board of Education upcoming program
-      </description>
-
+      <description>Board of Education upcoming program</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd</guid>
 
-      <guid isPermaLink="false">
-        1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd
-      </guid>
+      <link>https://drive.google.com/file/d/1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd/view</link>
 
-      <media:title>Upcoming Program</media:title>
-
-      <media:description>
-        Board of Education upcoming program
-      </media:description>
-
-      <media:content
+      <enclosure
         url="https://drive.google.com/uc?export=view&amp;id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd"
-        type="image/jpeg"
-        medium="image" />
-
-      <media:thumbnail
-        url="https://drive.google.com/uc?export=view&amp;id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd"
-        width="1920"
-        height="1080" />
-
+        type="img/jpg" />
     </item>
 
   </channel>
-
 </rss>
