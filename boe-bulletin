@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Boe Bulletin</title>
+    <description>Upcoming Board of Education Programs</description>
+    <link>https://example.com</link>
+    <item>
+      <title>Upcoming Program</title>
+      <description>Board of Education upcoming program</description>
+      <pubDate>2026-08-20</pubDate>
+      <guid>https://drive.google.com/file/d/1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd/view?usp=drive_link</guid>
+      <media:content url="https://drive.google.com/uc?export=view&amp;id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Upcoming Program</title>
+      <description>Board of Education upcoming program</description>
+      <pubDate>2026-08-20</pubDate>
+      <guid>https://drive.google.com/file/d/1yMZM0LzgcBVN7uCsZiWd5FQIi8HyNBsU/view?usp=drive_link</guid>
+      <media:content url="https://drive.google.com/uc?export=view&amp;id=1yMZM0LzgcBVN7uCsZiWd5FQIi8HyNBsU" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Upcoming Program</title>
+      <description>Board of Education upcoming program</description>
+      <pubDate>2026-08-20</pubDate>
+      <guid>https://drive.google.com/file/d/1ZqU1yspyj9q4HZZuUz1cGlb0IYpVexZG/view?usp=drive_link</guid>
+      <media:content url="https://drive.google.com/uc?export=view&amp;id=1ZqU1yspyj9q4HZZuUz1cGlb0IYpVexZG" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Upcoming Program</title>
+      <description>Board of Education upcoming program</description>
+      <pubDate>2026-08-24</pubDate>
+      <guid>https://drive.google.com/file/d/1IXE-w0vctIn60yCymEILpCrSlA-c0fNF/view?usp=drive_link</guid>
+      <media:content url="https://drive.google.com/uc?export=view&amp;id=1IXE-w0vctIn60yCymEILpCrSlA-c0fNF" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Upcoming Program</title>
+      <description>Board of Education upcoming program</description>
+      <pubDate>2026-08-24</pubDate>
+      <guid>https://drive.google.com/file/d/1v3WylL7gunH51pt4UWJYZz_40_VpUdEf/view?usp=drive_link</guid>
+      <media:content url="https://drive.google.com/uc?export=view&amp;id=1v3WylL7gunH51pt4UWJYZz_40_VpUdEf" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Upcoming Program</title>
+      <description>Board of Education upcoming program</description>
+      <pubDate>2026-08-31</pubDate>
+      <guid>https://drive.google.com/file/d/1u5zj7AGhwmNNDFRd7SDD53JPTVWpLfcE/view?usp=drive_link</guid>
+      <media:content url="https://drive.google.com/uc?export=view&amp;id=1u5zj7AGhwmNNDFRd7SDD53JPTVWpLfcE" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Upcoming Program</title>
+      <description>Board of Education upcoming program</description>
+      <pubDate>2026-09-01</pubDate>
+      <guid>https://drive.google.com/file/d/1PTQn9udPGmsdImYrncJUoFSVk5VEhcmG/view?usp=drive_link</guid>
+      <media:content url="https://drive.google.com/uc?export=view&amp;id=1PTQn9udPGmsdImYrncJUoFSVk5VEhcmG" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
