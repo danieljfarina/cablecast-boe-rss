@@ -1,4 +1,12 @@
-<item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+
+    <title>BOE Bulletin</title>
+    <description>Upcoming Board of Education Programs</description>
+    <link>https://danieljfarina.github.io/cablecast-boe-rss/</link>
+
+    <item>
   <title>BOE Bulletin</title>
   <guid isPermaLink="false">2026-08-20-https://drive.google.com/uc?export=view&id=1vJtcUgqWF-D6C4BE6PsqYwjllvAiLwAd</guid>
   <pubDate>2026-08-20</pubDate>
@@ -54,3 +62,7 @@
     url="https://drive.google.com/uc?export=view&amp;id=1PTQn9udPGmsdImYrncJUoFSVk5VEhcmG"
     type="img/jpg" />
 </item>
+
+
+  </channel>
+</rss>
